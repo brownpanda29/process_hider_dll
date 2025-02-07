@@ -1,8 +1,4 @@
 
-
----
-
-```markdown
 # Process Hider  
 
 A lightweight Windows DLL for dynamically hiding processes. This can be used for testing stealth techniques and understanding process manipulation on Windows.  
@@ -65,8 +61,3 @@ By default, the process remains hidden only until the next reboot. To maintain p
 ## Disclaimer  
 
 This project is intended for **educational and research purposes only**. Use responsibly and ensure compliance with applicable laws.  
-```
-
----
-
-This version is **clear, professional, and to the point**, with structured formatting for easy reading. Let me know if you want any refinements!
